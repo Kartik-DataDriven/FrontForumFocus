@@ -1,3 +1,3 @@
 # FrontForumFocus
 
-A Place where people can meet to people of same interest
+Aim to assist changemakers make and measure impact through the SDGs
